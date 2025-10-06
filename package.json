@@ -5,7 +5,7 @@
   "main": "xetrnal.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node xetrnal.js"
+    "start": "node xetrnal.js",
     "postinstall": "npm install --legacy-peer-deps"
   },
   "author": "dimzz",
